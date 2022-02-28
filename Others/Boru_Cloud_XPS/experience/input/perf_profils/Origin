@@ -1,0 +1,30 @@
+perf_profil_1 (Rennes Paranoia with another HDD due to no documentation)
+    CPU : Intel Xeon E5-2660 v2 * 2
+    MEM : 128 GiB
+    HDD : WD Velociraptor HDD 500GB
+    NET : Inter 82599ES - 10 Gb SFI/SFP
+    
+perf_profil_2 (Nancy Gros with another NIC due to documentation)
+    CPU : Intel Xeon Gold 5220
+    MEM : 96GiB
+    HDD : 480GB SSD SATA MICRON MTFDDAK480TDN + 960 GB
+    NET : Intel X550 10Gb
+    
+perf_profil_3 (Grenoble Dahu -Only one HDD)
+    CPU : Intel Xeon GOld 6130
+    MEM : 192Gib
+    HDD : 4TB HDD SATA Seagate ST4000NM0265 
+    NET : Intel Ethernet Controller X710 for 10GbE
+    
+perf_profil_4 (Rennes Paranoia)
+    CPU : Intel Xeon E5-2660 v2 * 2
+    MEM : 128 GiB
+    HDD : WD Velociraptor HDD 500GB
+    NET : Inter 82599ES - 10 Gb SFI/SFP
+    
+perf_profil_5 (Nancy Gros)
+    CPU : Intel Xeon Gold 5220
+    MEM : 96GiB
+    HDD : 480GB SSD SATA MICRON MTFDDAK480TDN + 960 GB
+    NET : Intel X550 10Gb
+    
