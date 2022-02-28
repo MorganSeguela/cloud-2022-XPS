@@ -1,0 +1,48 @@
+###############################################
+Cloud_2022_XPS
+###############################################
+
+This git contains 3 folders, one for each type of experiment :
+    - Threshold     : Contains 5 folders, one for each experiment of the Threshold comparison (Very Low, Low, Mid, High, Very High)
+    - DE2ARS        : Contains 3 folders, one for each deletion experiment (One by one | Del1, Percentage | DE2ARS, Total | DelTot).
+                    It also contains the proposed strategy DE2ARS
+    - Others        : Contains 4 folders, 3 experiments from the literature (Boru et al., MORM, PEPR) and a baseline (3Rand)
+    
+
+These experiments are discussed in the following paper :
+
+This permits to everyone to reproduce our experiments in our environment. 
+
+################## 
+SETUP
+##################
+
+To use these docker containers, you have to create an image based on one folder. And then run this image. 
+This will create within the container, in the experience folder, a folder called output. You will just have to copy data from this folder on your computer.
+
+##################
+MODIFICATION
+##################
+
+You can change all the values in the input parameters file.
+However, the number of file is limited to 67 200, due to automatic filename generation in the application. 
+Also, this should be noted that, the number of VM is unlimited, but, the network matrixes get exponentially heavier in terms of memory.
+
+##################
+DOWNLOAD
+##################
+
+With this git you have all the images to run all the experiments.
+
+##################
+Authors
+##################
+Morgan Seguela : 
+Jean-Marc Pierson :
+Riad Mokadem :
+
+##################
+Publications
+##################
+
+
